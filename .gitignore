@@ -45,3 +45,31 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+BuildItBigger/.idea/misc.xml
+BuildItBigger/.idea/misc.xml
+BuildItBigger/.idea/modules.xml
+*.iml
+BuildItBigger/.idea/misc.xml
+BuildItBigger/.idea/modules.xml
+BuildItBigger/.idea/misc.xml
+*.iml
+*.iml
+*.discovery
+BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/model/MyBean.java
+BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/MyApi.java
+BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/MyApiRequest.java
+BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/MyApiRequestInitializer.java
+*.java
+BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/MyApiScopes.java
+BuildItBigger/backend/build/libs/backend-android-endpoints.jar
+*.war
+BuildItBigger/backend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/build.gradle
+*.txt
+BuildItBigger/backend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/readme.html
+BuildItBigger/backend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/lenovo/myapplication/backend/myApi/model/MyBean.java
+BuildItBigger/backend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/lenovo/myapplication/backend/myApi/MyApi.java
+BuildItBigger/backend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/lenovo/myapplication/backend/myApi/MyApiRequest.java
+BuildItBigger/backend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/lenovo/myapplication/backend/myApi/MyApiRequestInitializer.java
+BuildItBigger/backend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/lenovo/myapplication/backend/myApi/MyApiScopes.java
+*.iml
+BuildItBigger/jokeview/jokeview.iml
