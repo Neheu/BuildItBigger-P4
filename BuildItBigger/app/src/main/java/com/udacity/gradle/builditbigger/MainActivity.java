@@ -1,13 +1,15 @@
 package com.udacity.gradle.builditbigger;
 
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v4.app.Fragment;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
 
-public class MainActivity extends ActionBarActivity {
+
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,7 +41,7 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public void tellJoke(View view) {
-        final MainActivityFragment fragment = (MainActivityFragment)
+        final BaseFragment fragment = (BaseFragment)
                 getSupportFragmentManager().findFragmentById(R.id.fragment);
         fragment.tellJoke();
     }

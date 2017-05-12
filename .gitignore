@@ -73,3 +73,16 @@ BuildItBigger/backend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java
 BuildItBigger/backend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/lenovo/myapplication/backend/myApi/MyApiScopes.java
 *.iml
 BuildItBigger/jokeview/jokeview.iml
+BuildItBigger/.idea/gradle.xml
+BuildItBigger/.idea/modules.xml
+*.iml
+BuildItBigger/backend/build/classes/endpointsSrc/com/example/lenovo/myapplication/backend/myApi/model/MyBean.class
+BuildItBigger/backend/build/classes/endpointsSrc/com/example/lenovo/myapplication/backend/myApi/MyApi$Builder.class
+BuildItBigger/backend/build/classes/endpointsSrc/com/example/lenovo/myapplication/backend/myApi/MyApi$SayHi.class
+BuildItBigger/backend/build/classes/endpointsSrc/com/example/lenovo/myapplication/backend/myApi/MyApi.class
+BuildItBigger/backend/build/classes/endpointsSrc/com/example/lenovo/myapplication/backend/myApi/MyApiRequestInitializer.class
+BuildItBigger/backend/build/classes/endpointsSrc/com/example/lenovo/myapplication/backend/myApi/MyApiRequest.class
+BuildItBigger/backend/build/classes/main/com/example/Lenovo/myapplication/backend/MyBean.class
+BuildItBigger/backend/build/classes/main/com/example/Lenovo/myapplication/backend/MyEndpoint.class
+*.zip
+BuildItBigger/backend/build/classes/endpointsSrc/com/example/lenovo/myapplication/backend/myApi/MyApiScopes.class
