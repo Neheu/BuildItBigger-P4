@@ -59,7 +59,6 @@ BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/m
 BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/MyApi.java
 BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/MyApiRequest.java
 BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/MyApiRequestInitializer.java
-*.java
 BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/MyApiScopes.java
 BuildItBigger/backend/build/libs/backend-android-endpoints.jar
 *.war
@@ -86,3 +85,13 @@ BuildItBigger/backend/build/classes/main/com/example/Lenovo/myapplication/backen
 BuildItBigger/backend/build/classes/main/com/example/Lenovo/myapplication/backend/MyEndpoint.class
 *.zip
 BuildItBigger/backend/build/classes/endpointsSrc/com/example/lenovo/myapplication/backend/myApi/MyApiScopes.class
+BuildItBigger/backend/build/tmp/appengineEndpointsExpandClientLibs/myApi-v1-java.zip-unzipped/myApi/src/main/java/com/example/lenovo/myapplication/backend/myApi/MyApi.java
+BuildItBigger/backend/build/libs/backend-android-endpoints.jar
+BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/MyApiScopes.java
+BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/MyApiRequestInitializer.java
+BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/MyApiRequest.java
+BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/MyApi.java
+BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/model/MyBean.java
+*.class
+BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/model/MyBean.java
+BuildItBigger/backend/build/generated-source/endpoints/java/com/example/lenovo/myapplication/backend/myApi/MyApi.java
