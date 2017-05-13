@@ -44,8 +44,6 @@ public  class MainActivityFragment extends Fragment {
     private class GetJokeAsyncTask  extends AsyncTask<Void, Void, String> {
         private MyApi myApiService = null;
 
-
-
         @Override
         protected void onPreExecute() {
             super.onPreExecute();

@@ -1,12 +1,18 @@
 package com.example;
 
-import java.util.ArrayList;
 import java.util.Random;
 
 public class Joker {
-    static ArrayList<String> jokesList = new ArrayList<>();
+    private static final String[] JOKES = {
+            "A computer lets you make more mistakes faster than any invention in human history – with the possible exceptions of handguns and tequila.",
+            "There are 10 types of people in the world: those who understand binary, and those who don’t.",
+            "Computers make very fast, very accurate mistakes",
+            "Whenever I find the key to success, someone changes the lock.",
+            "Why did the bee get married? Because he found his honey.",
+            "I like work: it fascinates me. I can sit and look at it for hours.",
+    };
 
     public static String getRandomJoke() {
-        return jokesList.get(new Random().nextInt(jokesList.size() - 1));
+        return JOKES[new Random().nextInt(JOKES.length - 1)];
     }
 }
