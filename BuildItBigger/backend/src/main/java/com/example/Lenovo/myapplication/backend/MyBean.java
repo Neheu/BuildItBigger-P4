@@ -7,11 +7,14 @@ public class MyBean {
 
     private String myData;
 
+    public MyBean(String randomJoke) {
+    myData = randomJoke;
+    }
+
+
     public String getData() {
         return myData;
     }
 
-    public void setData(String data) {
-        myData = data;
-    }
+
 }

@@ -40,9 +40,9 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void tellJoke(View view) {
-        final BaseFragment fragment = (BaseFragment)
-                getSupportFragmentManager().findFragmentById(R.id.fragment);
-        fragment.tellJoke();
-    }
+//    public void tellJoke(View view) {
+//        final MainActivityFragment fragment = (MainActivityFragment)
+//                getSupportFragmentManager().findFragmentById(R.id.fragment);
+//        fragment.tellJoke();
+//    }
 }

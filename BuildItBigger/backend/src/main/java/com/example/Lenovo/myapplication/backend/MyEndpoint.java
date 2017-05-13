@@ -6,6 +6,7 @@
 
 package com.example.Lenovo.myapplication.backend;
 
+import com.example.Joker;
 import com.google.api.server.spi.config.Api;
 import com.google.api.server.spi.config.ApiMethod;
 import com.google.api.server.spi.config.ApiNamespace;
@@ -26,21 +27,20 @@ import javax.inject.Named;
 )
 public class MyEndpoint {
 
-    /**
-     * A simple endpoint method that takes a name and says Hi back
-     */
-    @ApiMethod(name = "sayHi")
-    public MyBean sayHi(@Named("name") String name) {
-        MyBean response = new MyBean();
-        response.setData("Hi, " + name);
+//    /**
+//     * A simple endpoint method that takes a name and says Hi back
+//     */
+//    @ApiMethod(name = "sayHi")
+//    public MyBean sayHi(@Named("name") String name) {
+//        MyBean response = new MyBean();
+//        response.setData("Hi, " + name);
+//
+//        return response;
+//    }
+    @ApiMethod(name = "getRandomJoke")
+    public MyBean getRandomJoke() {
+        return new MyBean(Joker.getRandomJoke());
 
-        return response;
-    }
-    @ApiMethod(name = "getJoke")
-    public MyBean getData() {
-        final MyBean joke = new MyBean();
-//         joke.setData(new MyBean().getRandomJoke());
-        return joke;
     }
 
 }
